@@ -22,7 +22,7 @@ public class brique extends image {
     
     private void loadImage() {
         
-        var ii = new ImageIcon("src/ressources/brick.png");
+        var ii = new ImageIcon("Casse brique projet L3/src/ressources/brick.png");
         image = ii.getImage();        
     }
 
