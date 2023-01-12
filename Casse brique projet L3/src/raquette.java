@@ -20,7 +20,7 @@ public class raquette extends image {
     
     private void loadImage() {
         
-        var ii = new ImageIcon("src/ressources/paddle.png");
+        var ii = new ImageIcon("Casse brique projet L3/src/ressources/paddle.png");
         image = ii.getImage();        
     }    
 
