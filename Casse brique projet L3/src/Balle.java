@@ -22,7 +22,7 @@ public class Balle extends image {
 
     private void loadImage() {
 
-        var ii = new ImageIcon("src/ressources/ball.png");
+        var ii = new ImageIcon("Casse brique projet L3/src/ressources/ball.png");
         image = ii.getImage();
     }
 
